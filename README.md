@@ -2,6 +2,8 @@
 #
 **Capture d'écran simple et efficace pour Windows**
 #
+**Gadwin Printscreen surpasse l'outil de capture natif de Windows 11**
+#
 Idéal pour créer des tutoriels et documentations visuelles.
 #
 ## ✨ Fonctionnalités
@@ -20,18 +22,16 @@ Idéal pour créer des tutoriels et documentations visuelles.
 #
 ## 🚀 Installation
 #
-Installer le fichier
-#
-Lancez l'installateur ~
+Lancer le fichier **PrintScreen47_Setup.exe**
 #
 Suivez les instructions à l'écran
 #
 ## 📝 Utilisation
 #
-Capture rapide : Touche de raccourci personnalisable ~
+**Capture rapide** : Touche de raccourci personnalisable 
 #
-Édition : Annotations et effets disponibles ~
+**Capture très simple et très rapide à réaliser**
 #
-Export : Sauvegarde automatique dans le dossier de votre choix
+Un mode opératoire est fourni pour prendre en main ce logiciel
 #
 👤 Auteur : SERRES Régis Enseignant - Lycée E de Constant, La Flèche (72) GitHub : @serres-regis-prof-estournelles
