@@ -34,4 +34,4 @@ Suivez les instructions à l'écran
 #
 Un mode opératoire est fourni pour prendre en main ce logiciel
 #
-👤 Auteur : SERRES Régis Enseignant - Lycée E de Constant, La Flèche (72) GitHub : @serres-regis-prof-estournelles
+👤 Auteur : SERRES Régis - Enseignant - Lycée E de Constant, La Flèche (72) GitHub : @serres-regis-prof-estournelles
